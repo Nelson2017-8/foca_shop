@@ -1,0 +1,12 @@
+{
+    "name": "nelson_portillo/foca_shop",
+    "description": "Una tienda Online 100% gratis",
+    "license": "MIC",
+    "authors": [
+        {
+            "name": "Nelson Portillo",
+            "email": "nelsonportillo982@gmail.com"
+        }
+    ],
+    "scripts": {}
+}
